@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaokang Xie.
 - 👀 I’m interested in **Blockchain** and **Consensus Protocol**.
-- 🌱 I’m currently an undergraduate student from **SUSTech**(Southern University of Science and Technology, Shenzhen, China).
+- 🌱 I’m currently a Ph.D student at **UC Davis**(University of California, Davis).
 - 📫 Free to Email me at: seokxie1@gmail.com
 
 <!---
